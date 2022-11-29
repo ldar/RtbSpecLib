@@ -1,0 +1,17 @@
+{
+    "name": "ldar/rtb-spec",
+    "description": "Real Time Bidding (RTB) Project OpenRTB API Specification Version 2.5",
+    "type": "library",
+    "authors": [
+        {
+            "name": "e.iserkapov",
+            "email": "l-dar@iserkapov.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ldar\\RtbSpecLib\\": "src"
+        }
+    }
+}
